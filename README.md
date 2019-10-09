@@ -12,7 +12,7 @@
 The goal of this project is to come up with a simple, robust, accurate and precise  “rule-of-thumb” method to estimate percentage of body fat using clinically available measurements. Our “rule-of-thumb” is based on a real data set of 252 men with measurements of their percentage of body fat and various body circumference measurements. We did data cleaning, variable selection, model diagnostic, and finally we computed our rule of thumb:
 
 `
-BODYFAT (%) = 0.91 * ABDOMEN (cm) - 0.14 * WEIGHT (lbs) - 40
+BODYFAT (%) = 0.89 * ABDOMEN (cm) - 0.12 * WEIGHT (lbs) - 41.55
 `
 
 ### Contents of this Repository
